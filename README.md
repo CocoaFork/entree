@@ -35,8 +35,7 @@ pip3 install Flask
 ```
 
 ## Authors
-Park, Jonghyeon - *Initial work* - [kpjhg0124](https://github.com/kpjhg0124), [sdoksuksa](https://github.com/sdoksuksa)
-See also the list of contributors who participated in this project.
+* Park, Jonghyeon - *Initial work* - [kpjhg0124](https://github.com/kpjhg0124), [sdoksuksa](https://github.com/sdoksuksa)
 
 ## Contributing
 
