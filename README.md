@@ -6,9 +6,7 @@ This application was made at the request of [Mr. Jang Kwang Jae, Director of the
 
 # Getting Started
 You need some software when you run this application.
-```
-python
-```
+* python
 
 ## Installing
 If your device has not installed python, you can install python below ways:
@@ -35,3 +33,11 @@ Insert below command line in your shell.
 ```
 pip3 install Flask
 ```
+
+## Authors
+Park, Jonghyeon - *Initial work* - [kpjhg0124](https://github.com/kpjhg0124), [sdoksuksa](https://github.com/sdoksuksa)
+See also the list of contributors who participated in this project.
+
+## Contributing
+
+## License
