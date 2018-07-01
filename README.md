@@ -2,7 +2,7 @@ ENTREE
 ===========
 #### ENTREE, Dormitory student management web application.
 
-This application was made at the request of [Mr. Jang Kwang Jae, Director of the College of Higher Education](https://www.facebook.com/kwangjae.jang), Sungdok High School.
+This application was made at the request of [Mr. Jang Kwang Jae, Director of career guidance](https://www.facebook.com/kwangjae.jang), Sungdok High School.
 
 # Getting Started
 You need some software when you run this application.
