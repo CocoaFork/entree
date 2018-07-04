@@ -7,6 +7,7 @@ app = Flask(__name__)
 try:
     import LocalSettings
 except:
+    print(' * LocalSettings.py를 찾을 수 없습니다. ')
     installation.start()
 
 dictionary = open('dic.json', 'r', encoding = 'utf-8').read()

@@ -4,20 +4,22 @@
     <meta charset="utf-8">
 </head>
 <body>
-    소유자 증명 코드<br>
-    <input type="text" name="verifiation-code"><br>
-    데이터베이스 파일명<br>
-    <input type="text" name="database-filename"><br>
-    포트<br>
-    <input type="text" name="flask-host-port"><br>
-    SECRET_KEY<br>
-    <input type="text" name="crypt-secret-key"> <button>랜덤생성</button><br>
-    언어<br>
-    <input type="text" name="entree-language"><br>
-    기기<br>
-    <input type="text" name="entree-device-type"><br>
-    호스트: 공개범위<br>
-    <input type="text" name="entree-host-publish"><br>
-    <button>NEXT</button>
+    <form action="/" accept-charset="utf-8" name="installation" method="post">
+        소유자 증명 코드<br>
+        <input type="text" name="verifiation-code"><br>
+        데이터베이스 파일명<br>
+        <input type="text" name="database-filename"><br>
+        포트<br>
+        <input type="text" name="flask-host-port"><br>
+        SECRET_KEY<br>
+        <input type="text" name="crypt-secret-key"> <button>랜덤생성</button><br>
+        <!--언어<br>
+        <input type="text" name="entree-language"><br>
+        기기<br>
+        <input type="text" name="entree-device-type"><br>
+        호스트: 공개범위<br>
+        <input type="text" name="entree-host-publish"><br>-->
+        <input type="submit" value="NEXT">
+    </form>
 </body>
 </html>
