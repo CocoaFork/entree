@@ -2,14 +2,24 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<title>ENTREE_APPNAME</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="style.css">
+    <title>ENTREE_APPNAME</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <section class="header">
         <div class="container">
-            <h1>ENTREE</h1>
+            <h1>TITLE</h1>
+            <p>계속하려면 로그인하십시오.</p>
+            <form action="/login" class="loginform">
+                <input type="text" name="account_id" class="logininput" placeholder="Account ID">
+                <input type="text" name="account_pw" class="logininput" placeholder="Account Password">
+            </form>
+            <a href="#">Start</a>
         </div>
     </section>
 </body>
